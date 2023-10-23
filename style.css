@@ -1,0 +1,34 @@
+#text {
+    font-size: larger;
+    color: azure;
+    font-family: 'Caveat', cursive;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+}
+
+html{
+    background-color: black;
+}
+.motivation-img{
+        width: 500px;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        border: 5px solid rgb(148, 71, 48);
+        margin-top: 50px;
+        padding: 2px;
+    }
+      
+   
+#text1{
+    font-size: 20px;
+    color: azure;
+    position:relative;
+    left: 340px;
+    
+    
+    
+}
