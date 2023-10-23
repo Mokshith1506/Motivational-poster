@@ -1,1 +1,1 @@
-# Motivational-poster
+# Motivational-posters
